@@ -1,0 +1,2 @@
+//с 
+function checkAnswer() {}
